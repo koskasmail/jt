@@ -1,0 +1,9 @@
+		/****
+		 * short shortNumber = Short.parseShort(StringVal);
+		 * byte byteNumber = Byte.parseByte(StringVal);
+		 * int intNumber = Integer.parseInt(StringVal);
+		 * long LongNumber = Long.parseLong(StringVal); 
+		 * float FloatNumber = Float.parseFloat(StringVal);
+		 * double DoubleNumber = Double.parseDouble(StringVal);
+		 * boolean booleanNumber = Boolean.parseBoolean(StringVal); 
+		 */

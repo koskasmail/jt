@@ -1,0 +1,5 @@
+/**********
+ * 
+ * Casting type: (int) (byte) (short) (long) (double)
+ * 
+ ***********/

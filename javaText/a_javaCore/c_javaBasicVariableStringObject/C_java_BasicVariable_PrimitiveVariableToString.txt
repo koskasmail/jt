@@ -1,0 +1,9 @@
+/****
+ * StringVal = Byte.toString(byte);
+ * StringVal = Short.toString(short);
+ * StringVal = Integer.toString(Integer);
+ * StringVal = Long.toString(long);
+ * StringVal = Float.toString(float);
+ * StringVal = Double.toString(double);
+ * StringVal = Boolean.toString(boolean);
+ */

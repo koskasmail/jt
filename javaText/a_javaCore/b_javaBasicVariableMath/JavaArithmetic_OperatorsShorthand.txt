@@ -1,0 +1,6 @@
+/**
+ * 
+ * Java Arithmetic Operators Shorthand
+ * +=   -=   *=   /=   %=   
+ * 
+ */

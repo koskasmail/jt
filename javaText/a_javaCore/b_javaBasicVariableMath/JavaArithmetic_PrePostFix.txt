@@ -1,0 +1,8 @@
+/**********
+ * 
+ * PreFix PostFix Method
+ * 
+ * prefix - change the variable value and assign the new value to another variable
+ * postfix  - assign the variable old value to another variable and then change the variable value
+ * 
+ **********/
